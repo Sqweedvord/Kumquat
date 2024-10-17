@@ -10,4 +10,3 @@ while index < len(my_list):
     index += 1
 print(polo_ch)
 
-
